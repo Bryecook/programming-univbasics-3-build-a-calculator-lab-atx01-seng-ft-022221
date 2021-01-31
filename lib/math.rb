@@ -1,7 +1,6 @@
 def addition(num1, num2)
-x=#{num1}+#{num2}
-puts x
-return
+  result= #{num1}+ #{num2}
+  puts result
 end
 
 def subtraction(num1, num2)
