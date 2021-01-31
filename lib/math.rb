@@ -1,5 +1,5 @@
-def addition(5, 4)
-  result=5+4
+def addition(num1, num2)
+  num1 + num2= result
   puts result
 end
 
